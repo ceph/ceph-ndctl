@@ -1,3 +1,10 @@
+ndctl (71-1) unstable; urgency=medium
+
+  * New upstream release
+  * Update library symbols
+
+ -- Kefu Chai <kchai@redhat.com>  Tue, 06 Apr 2021 10:36:15 +0000
+
 ndctl (67-1) unstable; urgency=medium
 
   * New upstream release.
